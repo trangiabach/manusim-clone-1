@@ -1,4 +1,4 @@
-`use client`;
+"use client";
 
 import { useState, useRef, useEffect, type SVGProps, type ComponentType } from "react";
 import { Paperclip, Image as ImageIcon, ArrowUp } from "lucide-react";
